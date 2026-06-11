@@ -4,3 +4,6 @@ obj/
 
 levelcore.db
 *.db
+
+publish/
+*.user
